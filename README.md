@@ -46,8 +46,11 @@ This project is configured for instant deployment via **GitHub Codespaces**.
 
 ---
 
-### How to add this to your Repo
+### How to Fork the Repository
 
-1. In your VS Code file explorer, click on `README.md`.
-2. Paste the text above into the file.
-3. Commit and Sync your changes.
+1. Click the Fork button (top right corner).
+2. Click Create fork.
+3. Launch Codespaces.
+4. click the green <> Code button.
+5. Select the Codespaces tab.
+6. Click Create codespace on main.
